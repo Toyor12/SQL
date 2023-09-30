@@ -1,7 +1,7 @@
 # SQL
 Danny's-Diner-SQL-Based-Analysis-of-Customer-Spending-and-Preferences
 
-<span style=":9;">Some larger text</span>
+<span style=":15;">Introduction</span>
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen. The restaurant is facing the challenges that many new establishments encounter. The diner has collected basic operational data over the initial months, but the utilization of this data to make informed business decision remains a problem to them.
 The objective of this report is to assist Danny's Diner in navigating through these challenges by leveraging the collected data. By employing SQL-based analysis, this report aims to unearth valuable insights into customer behavior, spending patterns, and menu item preferences. These insights are crucial for making informed decisions to enhance the customer experience, potentially expanding the customer loyalty program, and ultimately ensuring the sustained growth and success of Danny’s Diner
