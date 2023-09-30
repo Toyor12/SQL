@@ -6,7 +6,7 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 The objective of this report is to assist Danny's Diner in navigating through these challenges by leveraging the collected data. By employing SQL-based analysis, this report aims to unearth valuable insights into customer behavior, spending patterns, and menu item preferences. These insights are crucial for making informed decisions to enhance the customer experience, potentially expanding the customer loyalty program, and ultimately ensuring the sustained growth and success of Danny’s Diner
 
 
-### Problem Statement
+############### Problem Statement
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
